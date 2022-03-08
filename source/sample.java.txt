@@ -4,6 +4,7 @@ public static void main(string srgs[])
 
 {
 system.out.printin.(Hellojenkins);
+system.out.printin.(Hello-git); 
 }
 
 {
