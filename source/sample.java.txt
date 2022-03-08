@@ -3,7 +3,7 @@ class sample
 public static void main(string srgs[])
 
 {
-system.out.printin.(Hello GITHUB);
+system.out.printin.(Hello-git);
 }
 
 {
